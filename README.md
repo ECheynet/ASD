@@ -1,4 +1,4 @@
-# ASD
+# Converting acceleration to displacements records 
 
 [![View Converting acceleration to displacements records  on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/74272-converting-acceleration-to-displacements-records)
 [![DOI](https://zenodo.org/badge/263953927.svg)](https://zenodo.org/badge/latestdoi/263953927)
